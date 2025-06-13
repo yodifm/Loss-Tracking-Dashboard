@@ -24,3 +24,6 @@ It also highlights the loss percentage and total value lost between:
 🔍 Filters are included to allow users to explore the data by branch or product, enabling a more focused analysis.
 
 💡 This project highlights how Power BI can transform raw data into powerful insights, helping businesses take proactive steps in solving operational inefficiencies and improving accuracy in the supply chain. It’s a valuable tool for professionals in logistics, supply chain, and operations who rely on real-time, data-driven decisions.
+
+
+![Tracking Loss Value Dashboard](https://github.com/user-attachments/assets/52acd9a6-413a-473f-bca5-94746460803f)
